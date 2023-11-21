@@ -4,7 +4,7 @@
 
 - 🔭 I’m currently working as **Data Analyst Intern**
 
-- 🌱 I’m currently learning **Power BI,SQL,and Python**
+- 🌱 I’m currently learning **Tableau**
 
 - 👯 I’m looking to collaborate on **Data Analysis and visualization and dashboarding**
 
